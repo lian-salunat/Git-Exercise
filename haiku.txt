@@ -1,1 +1,2 @@
 Enter file contents
+This is the third line
