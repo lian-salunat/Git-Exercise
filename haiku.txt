@@ -1,2 +1,3 @@
 Enter file contents
 I want to eat something now.
+This is the third line
